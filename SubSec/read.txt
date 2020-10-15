@@ -1,0 +1,10 @@
+Class DocxToTextConversion have some functions and they are :
+1: constructing the file path
+2:convertToText
+3:extracting the doc
+4:extracting the docx
+5:created an object to return the converted text in $output .
+
+*created getSubject($str) function to parse the subject from the docx file.
+*used Strpos_all to set the positions of all string in array.
+*finally getSection function get the value of sections from the file. 
